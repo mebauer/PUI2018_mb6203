@@ -8,5 +8,5 @@
 
 ### And finally, we took screenshots of our .bashrc file where we can see the alias and env. variable we created.
 
-![Alt text](../HW1_mb6203/HW2_images/MarkBauer1.png)
-![Alt text](../HW1_mb6203/HW2_images/MarkBauer2.png)
+![Alt text](../HW1_mb6203/HW1_images/MarkBauer1.png)
+![Alt text](../HW1_mb6203/HW1_images/MarkBauer2.png)
