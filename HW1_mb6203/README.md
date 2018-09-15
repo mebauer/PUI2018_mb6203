@@ -1,6 +1,6 @@
 # We created a directory called PUI2018
 
-## We created an environment variable called PUI2018 that pointed to our directory called PUI2018.
+### We created an environment variable called PUI2018 that pointed to our directory called PUI2018.
 
 ### To save our environmental variable permanently, we saved the cord in .bashrc. This way, our $PUI2018 environmental variable is set to our PUI2018 directory. 
 
