@@ -1,4 +1,4 @@
-# We created a directory called PUI2018
+# Creating environmental variables and aliases for our PUI2018 directory.
 
 ### We created an environment variable called PUI2018 that pointed to our directory called PUI2018.
 
