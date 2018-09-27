@@ -7,21 +7,21 @@
 
 Create File and Committ to Repo
 
-![screen shot](HW3_mb6203/Create_test.csv_file.png)
+![screen shot](imgs/Create_test.csv_file.png)
 
-![screen shot](HW3_mb6203/screenshot_of_csv_file_content.png)
+![screen shot](imgs/screenshot_of_csv_file_content.png)
 
 Pull changes to PUI2018 Repo
 
-![screen shot](HW3_mb6203/test.csv_file_in_terminal.png)
+![screen shot](imgs/test.csv_file_in_terminal.png)
 
 Remove File and History from Repo
 
-![screen shot](HW3_mb6203/removing_test.csv_file_terminal.png)
+![screen shot](imgs/removing_test.csv_file_terminal.png)
 
 Screenshot of deleted history
 
-![screen shot](HW3_mb6203/Remove_History.png)
+![screen shot](imgs/Remove_History.png)
 
 
 # Part 2: Choose a file in CSV format from NYC Open Data and use pandas to read the file and mangle the data within it. # 
