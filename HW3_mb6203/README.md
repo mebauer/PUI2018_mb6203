@@ -1,9 +1,9 @@
 # PUI2018 HW 3 # 
 
 
-# Part 1: perform the instruction in deleteData.md: delete data and its history from a GitHub repo # 
+# Part 1: Perform the instruction in deleteData.md: delete data and its history from a GitHub repo # 
 
-## Assignment 1: Delete data and its history from a GitHub repo##
+## Assignment 1: Delete data and its history from a GitHub repo ##
 
 Create File and Commit to Repo
 
@@ -32,6 +32,8 @@ Screenshot of deleted history
 
 I worked extensively with Yushi Chen, a student at NYU CUSP. 
 
+My scatter plots were exported as a .pdf, and the caption notes can be found in the code (I wasn't sure how to export the caption text as well). I attempted to include all chart elements. More information can be found in the jupyter notebook.
+
 ![screen shot](imgs/IMG1.pdf)
 
 
@@ -54,7 +56,7 @@ I worked extensively with Yushi Chen, a student at NYU CUSP. Additionally, I rec
 
 ### PLEASE READ: Collaborated with: ###
 
-These last two assignments were particularly challenging for me. Thus, I had extensive help getting started through the code, creating the python script, and also received assistance debugging at the end. I received the most assistance creating the python script, forming arguments, and the correct syntax of the code.
+These last two assignments were particularly challenging for me. Thus, I had extensive help getting started through the code, creating the python script, and also received assistance debugging at the end. I received the most assistance creating the python script, forming arguments, and the correct syntax of the code (I still don't quite understand this section, but I will be revisiting it as frequently as I can).
 
 Students involved in assisting me:
 - Yushi Chen
@@ -63,4 +65,4 @@ Students involved in assisting me:
 - Urwa Muaz
 - Manrique Vargas
 
-I can't stress this enough that these last two assignments were particulularly challenging for me. All of the student guidance/feedback was in-person at CUSP's building, and extensive explanation was provided to me by all of these students while working through code.
+All of the student guidance/feedback was in-person at CUSP's building, and extensive explanation/reasoning was provided to me by all of these students while working through code. Each student provided feedback and contributing to my learning.
