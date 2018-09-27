@@ -4,7 +4,7 @@
 
 This homework was exceptionally difficult for me, and I received immense help from various students at CUSP (names mentioned below). All of the assistance was given in person at CUSP with thorough explanation and reasoning. With that being said, all code for homework 3 was typed physically by me.
 
-- Mark
+Mark Bauer
 
 
 # Part 1: Perform the instruction in deleteData.md: delete data and its history from a GitHub repo # 
@@ -40,6 +40,7 @@ I worked extensively with Yushi Chen, a student at NYU CUSP. She assisted to hel
 
 My scatter plots were exported as a .pdf, and the caption notes can be found in the code (I wasn't sure how to export the caption text as well). I attempted to include all chart elements. More information can be found in the jupyter notebook.
 
+Link to image:
 ![screen shot](imgs/IMG1.pdf)
 
 
@@ -50,6 +51,7 @@ My scatter plots were exported as a .pdf, and the caption notes can be found in 
 
 I worked extensively with Yushi Chen, a student at NYU CUSP. Additionally, I received assistance formatting the chart from Qinyu Goh, a student at NYU CUSP.
 
+Link to image:
 ![screen shot](imgs/IMG2.pdf)
 
 
