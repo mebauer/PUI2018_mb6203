@@ -5,7 +5,7 @@
 
 ## Assignment 1: Delete data and its history from a GitHub repo##
 
-Create File and Committ to Repo
+Create File and Commit to Repo
 
 ![screen shot](imgs/Create_test.csv_file.png)
 
@@ -28,7 +28,16 @@ Screenshot of deleted history
 
 ## Assignment 2: Read CSV files with pandas and use NYC open data portal ##
 
+
+![screen shot](imgs/IMG1.pdf)
+
+
+
 ## Assignment 2: Extra Credit Assignment : work with and APIs and dates in Pandas ##
+
+
+
+![screen shot](imgs/IMG2.pdf)
 
 Team members: 
 
