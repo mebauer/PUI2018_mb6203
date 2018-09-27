@@ -28,6 +28,9 @@ Screenshot of deleted history
 
 ## Assignment 2: Read CSV files with pandas and use NYC open data portal ##
 
+### PLEASE READ: Collaborated with: ###
+
+I worked extensively with Yushi Chen, a student at NYU CUSP. 
 
 ![screen shot](imgs/IMG1.pdf)
 
@@ -35,15 +38,12 @@ Screenshot of deleted history
 
 ## Assignment 2: Extra Credit Assignment : work with and APIs and dates in Pandas ##
 
+### PLEASE READ: Collaborated with: ###
 
+I worked extensively with Yushi Chen, a student at NYU CUSP. Additionally, I received assistance formatting the chart from Qinyu Goh, a student at NYU CUSP.
 
 ![screen shot](imgs/IMG2.pdf)
 
-Team members: 
-
-qinyu goh qygoh
-Yushi Chen Amberchen724
-Mark Bauer
 
 
 # Part 3: Write scripts to stream real-time bus data from MTA through the MTA Bus Time interface. In order to access this data, you must first request an API key from MTA. # 
@@ -51,3 +51,16 @@ Mark Bauer
 ## Assignment 3: Tracking each vehicle for a line ##
 
 ## Assignment 4: Next stop information ##
+
+### PLEASE READ: Collaborated with: ###
+
+These last two assignments were particularly challenging for me. Thus, I had extensive help getting started through the code, creating the python script, and also received assistance debugging at the end. I received the most assistance creating the python script, forming arguments, and the correct syntax of the code.
+
+Students involved in assisting me:
+- Yushi Chen
+- Tanya Nabila
+- Marvin Mananghaya
+- Urwa Muaz
+- Manrique Vargas
+
+I can't stress this enough that these last two assignments were particulularly challenging for me. All of the student guidance/feedback was in-person at CUSP's building, and extensive explanation was provided to me by all of these students while working through code.
