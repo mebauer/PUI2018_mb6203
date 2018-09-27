@@ -29,7 +29,7 @@ Screenshot of deleted history
 ## Assignment 2: Read CSV files with pandas and use NYC open data portal ##
 
 
-![screen shot](imgs/IMG1.pdf)
+![screen shot](imgs/IMG1.png)
 
 
 
@@ -37,7 +37,7 @@ Screenshot of deleted history
 
 
 
-![screen shot](imgs/IMG2.pdf)
+![screen shot](imgs/IMG2.png)
 
 Team members: 
 
