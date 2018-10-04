@@ -21,10 +21,10 @@ This assignment included stating a question about CitiBike data.
 - And finally, plotted our data distributions.
 
 ## Assignment 3: Finish z-test lab and turn it in as a notebook.
-
+### Team members: Yushi (Amber) Chan, Aalia M., and Mark Bauer.
 This assignment included:
 - Formulation of our Null and Alternative hypothesis.
 - Downloaded and read the data as a data frame.
 - Calculated the Z statistics and compared to our significance threshold.
-- Developed conclusions about our Null hypothesis 
+- Developed conclusions about our Null hypothesis. 
 
