@@ -22,6 +22,8 @@ This assignment included stating a question about CitiBike data.
 
 ## Assignment 3: Finish z-test lab and turn it in as a notebook.
 ### Team members: Yushi (Amber) Chan, Aalia M., and Mark Bauer.
+Assignment 3 included much assistance from Yushi (Amber) Chan and conceptual guidance from Aalia M.
+
 This assignment included:
 - Formulation of our Null and Alternative hypothesis.
 - Downloaded and read the data as a data frame.
