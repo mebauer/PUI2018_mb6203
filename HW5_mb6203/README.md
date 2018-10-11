@@ -21,4 +21,5 @@ SQL lab
 - Manrique Vargas
 - Kate Cauley
 
-## All code was completed with participation from multiple members of the team in person
+## All code was completed with participation from multiple members of the team in person and with detailed explanations. 
+
