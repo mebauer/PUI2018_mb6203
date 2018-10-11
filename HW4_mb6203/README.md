@@ -20,6 +20,8 @@ This assignment included stating a question about CitiBike data.
 - Created a dataframe and displayed the top few rows of the data as a table.
 - And finally, plotted our data distributions.
 
+Assignment 2 can be found as HW4_assignment2.ipynb in the folder. HW4_assignment2.ipynb
+
 ## Assignment 3: Finish z-test lab and turn it in as a notebook.
 ### Team members: Yushi (Amber) Chan, Aalia M., and Mark Bauer.
 Assignment 3 included much assistance from Yushi (Amber) Chan and conceptual guidance from Aalia M.
@@ -29,4 +31,10 @@ This assignment included:
 - Downloaded and read the data as a data frame.
 - Calculated the Z statistics and compared to our significance threshold.
 - Developed conclusions about our Null hypothesis. 
+
+Assignment 3 can be found as HW4_assignment3.ipynb in the folder.
+
+Thank you,
+
+Mark Bauer
 
