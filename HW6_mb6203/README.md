@@ -61,6 +61,7 @@ Plot of stable isotope values A. δ15N versus δ13C and B. δ34S versus δ13C fo
 
 ![mainplot](2.47109506-69c16780-d21c-11e8-9d34-66f4e43ec270.png)
 ![mainplot](3.47109205-a345a300-d21b-11e8-9513-f90c5376b3b7.png)
+![mainplot](3.3.47109613-b73dd480-d21c-11e8-894c-b5e289ac90fe.png)
 
 
 
