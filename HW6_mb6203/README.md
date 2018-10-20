@@ -46,7 +46,7 @@ This is a template for the table. To see how it is written clock on the Raw link
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-| ANOVA	| FILL IN | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	FILL IN | FILL IN | FILL IN | FILL IN
+| ANOVA	| FILL IN | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	FILL IN | FILL IN | FILL IN | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083452
 | Correlation	| FILL IN | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	FILL IN| FILL IN | FILL IN | FILL IN
 | Logistic Regression	| FILL IN | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	FILL IN | FILL IN | FILL IN | FILL IN |
   
