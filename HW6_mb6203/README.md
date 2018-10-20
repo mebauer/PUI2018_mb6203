@@ -54,6 +54,8 @@ This is a template for the table. To see how it is written clock on the Raw link
 
 Include the main plot of the paper (the plot that summarized the result)
 
+![mainplot](journal.pone.0083452.g002.png)
+
 main plot
 
 
