@@ -57,6 +57,17 @@ Include the main plot of the paper (the plot that summarized the result)
 
 Plot of stable isotope values A. δ15N versus δ13C and B. δ34S versus δ13C for Myotis myotis, M. mystacinus and M. daubentonii. Values indicate that each species occupied a different isotopic niche. The population of M. myotis (Ermatingen) (open circles), which roosted closer to water, occupied the same niche as the population farther away (full circles).
 
+![mainplot](2.47109506-69c16780-d21c-11e8-9d34-66f4e43ec270.png)
+
+![mainplot](3.47109205-a345a300-d21b-11e8-9513-f90c5376b3b7.png)
+
+![mainplot](3.1.47109205-a345a300-d21b-11e8-9513-f90c5376b3b7.png)
+
+![mainplot](3.2.47109613-b73dd480-d21c-11e8-894c-b5e289ac90fe.png)
+
+![mainplot](3.3.47109613-b73dd480-d21c-11e8-894c-b5e289ac90fe.png)
+
+
 
 ## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY:
 Reproduce the analysis of the Hard to Employ programs for NY. You may want to read the relevant portion of the study to make sure you are not just workign mechanically (Chapter 2 of the original document).
