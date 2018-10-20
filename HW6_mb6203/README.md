@@ -46,7 +46,7 @@ This is a template for the table. To see how it is written clock on the Raw link
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-| ANOVA	| FILL IN | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	The aim was to assess whether stable isotope and fatty acid signatures of faeces can be used to determine feeding preferences. | faeces stable isotope and fatty acid signatures won't affect the terrestrial, aquatic and mixed feeding niches of Myotis myotis, M. daubentonii, and M. mystacinus, respectively. | FILL IN | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083452
+| ANOVA	| stable isotopes values | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	The aim was to assess whether stable isotope and fatty acid signatures of faeces can be used to determine feeding preferences. | faeces stable isotope and fatty acid signatures won't affect the terrestrial, aquatic and mixed feeding niches of Myotis myotis, M. daubentonii, and M. mystacinus, respectively. | p < 0.001 | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083452
 | Correlation	| FILL IN | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	FILL IN| FILL IN | FILL IN | FILL IN
 | Logistic Regression	| FILL IN | FILL IN | FILL IN| FILL IN | FILL IN | FILL IN | 	FILL IN | FILL IN | FILL IN | FILL IN |
   
