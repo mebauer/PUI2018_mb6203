@@ -55,13 +55,19 @@ Include the main plot of the paper (the plot that summarized the result)
 
 ![mainplot](journal.pone.0083452.g002.png)
 
-Plot of stable isotope values A. δ15N versus δ13C and B. δ34S versus δ13C for Myotis myotis, M. mystacinus and M. daubentonii. Values indicate that each species occupied a different isotopic niche. The population of M. myotis (Ermatingen) (open circles), which roosted closer to water, occupied the same niche as the population farther away (full circles).
+Test1: Plot of stable isotope values A. δ15N versus δ13C and B. δ34S versus δ13C for Myotis myotis, M. mystacinus and M. daubentonii. Values indicate that each species occupied a different isotopic niche. The population of M. myotis (Ermatingen) (open circles), which roosted closer to water, occupied the same niche as the population farther away (full circles).
 
 
 
 ![mainplot](2.47109506-69c16780-d21c-11e8-9d34-66f4e43ec270.png)
+
+Test 2: Comparison of Nausea, Vomiting, Depression, Anxiety and Stress at Hospitalization for Hyperemesis Gravidarum and at the Third Trimester
+
 ![mainplot](3.1.47109205-a345a300-d21b-11e8-9513-f90c5376b3b7.png)
 ![mainplot](3.3.47109613-b73dd480-d21c-11e8-894c-b5e289ac90fe.png)
+
+Test 3: 
+Immigrant BMI trends over time by geographic remoteness (2006–2014)
 
 
 
