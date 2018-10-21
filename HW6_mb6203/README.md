@@ -4,7 +4,7 @@
 
 Dear Professor Bianco,
 
-I am utilizing my 72-hour extension for homework 6. I work full-time, and I had two exams for another graduate program I am pursuing in Coastal Sciences and Hydrodynamics.
+I am utilizing my ***72-hour extension*** for homework 6. I work full-time, and I had two exams for another graduate program I am pursuing in Coastal Sciences and Hydrodynamics.
 
 Also, pleased be advised that I did not recieve any pull request for assignment 1. Maybe I wasn't assigned a reviewer? 
 
