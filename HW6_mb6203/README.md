@@ -10,11 +10,13 @@ Also, pleased be advised that I did not recieve any pull request for assignment 
 
 **Technical Details about HW6:**
 
-For homework 3 and 4 I utilized your *solutions* notebooks. Although the output looks fairly similar, I attempted to change items where I could (i.e. assigning variables new names, new comments in my own words, etc.). 
+For homework 3 and 4 I utilized your *solutions* notebooks. Although the output looks fairly similar, I attempted to change items where I could (i.e. assigning variables new names, new comments in my own words, etc.). I wasn't totally sure if you wanted us to use them or not, but I believe they were good starting points for me and ultimately helped me learn the material faster and more in-depth. Thank you also for the comments throughout the notebooks.
 
 ## Assignment 1: Review your classmate's Citibike project proposal
 
 Assignment 1 is titled CitibikeReview_mb6203.md
+
+I have sent pull request to my colleague.
 
 
 
