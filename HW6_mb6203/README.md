@@ -3,31 +3,18 @@
 
 
 ## Assignment 1: Review your classmate's Citibike project proposal
-You will recieve an email tonight with the name, nyuID, and GitHub username of a classmate.
 
-check that at least one of these class-mates is not already in your group for HW4 and contact me promptly if they both are! By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+Assignment 1 is titled CitibikeReview_mb6203.md
 
-look in the classmate HW4_<netid> repo ASAP and identify their submission for the citibike project. If you cannot find it contact them immediately!
 
-Fork their repository and clone it (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory) - only read up to the experimantal setup and verify the data to answer the question is available. Do not consider the way they answer the question if they already did!
-
-Read it carefully (but do not modify the notebook)! You have to:
-
-a. verify that their Null and alternative hypotheses are formulated correctly
-
-b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
-
-c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
-
-Write your comments, suggestions, and suggested an appropriate statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md. Suggest variations on the question, if you think it may be made more interesting.
-
-Do not perform the test yet.
 
 Submit a pull request to the original repository to share your markdown.
 
 
 
 ## Assignment 2: Literature choices of statistical tests
+# The last two tests were performed with assistance from **Alia Kasem**
+
 Work with one, or maximum two people.
 
 Choose three tests from the table in the slides
