@@ -10,7 +10,7 @@ Also, pleased be advised that I did not recieve any pull request for assignment 
 
 **Technical Details about HW6:**
 
-Homework 3 and 4 I utilized your *solutions* notebooks. Although the output looks fairly similar, I attempted to change items where I could (i.e. assigning variables new names, new comments in my own words, etc.). 
+For homework 3 and 4 I utilized your *solutions* notebooks. Although the output looks fairly similar, I attempted to change items where I could (i.e. assigning variables new names, new comments in my own words, etc.). 
 
 ## Assignment 1: Review your classmate's Citibike project proposal
 
