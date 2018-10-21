@@ -13,9 +13,9 @@ Submit a pull request to the original repository to share your markdown.
 
 
 ## Assignment 2: Literature choices of statistical tests
-# The last two tests were performed with assistance from **Alia Kasem**
+The last two tests were performed with assistance from **Alia Kasem**
 
-Work with one, or maximum two people.
+Work with one, or maximum two people (**I worked with Alia**).
 
 Choose three tests from the table in the slides
 
