@@ -8,7 +8,7 @@ I am utilizing my 72-hour extension for homework 6. I work full-time, and I had 
 
 Also, pleased be advised that I did not recieve any pull request for assignment 1. Maybe I wasn't assigned a reviewer? 
 
-**Technical Details about HW6:
+**Technical Details about HW6:**
 
 Homework 3 and 4 I utilized your *solutions* notebooks. Although the output looks fairly similar, I attempted to change items where I could (i.e. assigning variables new names, new comments in my own words, etc.). 
 
