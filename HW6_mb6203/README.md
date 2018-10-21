@@ -53,25 +53,15 @@ Immigrant BMI trends over time by geographic remoteness (2006–2014)
 
 
 ## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY:
-Reproduce the analysis of the Hard to Employ programs for NY. You may want to read the relevant portion of the study to make sure you are not just workign mechanically (Chapter 2 of the original document).
 
-Reproduce the results in cell 2 of Table 2.1 (Ever employed in a CEO transitional job), and cell 10 (Convicted of a felony). Fill in the cells of the scheleton notebook as you are asked to.
 
-Turn in your version of the python notebook in the HW6_<netID> directory
+My python notebook is titled HW6_assignment3.ipynb 
 
 
 
 ## Assignment 4: Tests of correlation using the scipy package with citibike data.
-Use the following are 3 tests to assess correlation between 2 samples of citibike data:
 
-Pearson’s test
-Spearman’s test
-K-S test
-There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment notebook citibikes_compare_distributions.ipynb.
-
-Use: trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis
-
-Use: age of bikers for trips originating in Manhattan and in Brooklyn. Use at least 2 months of citibike data. Extra Credit
+My python notebook is titled HW6_assignment4.ipynb 
 
 
 
