@@ -1,34 +1,33 @@
 # This is my README file for HW6
 
+## For Professor Bianco
 
+Dear Professor Bianco,
+
+I am utilizing my ***72-hour extension*** for homework 6. I work full-time, and I had two exams for another graduate program I am pursuing in Coastal Sciences and Hydrodynamics.
+
+Also, pleased be advised that I did not recieve any pull request for assignment 1. Maybe I wasn't assigned a reviewer? 
+
+**Technical Details about HW6:**
+
+For homework 3 and 4 I utilized your *solutions* notebooks. Although the output looks fairly similar, I attempted to change items where I could (i.e. assigning variables new names, new comments in my own words, etc.). I wasn't totally sure if you wanted us to use them or not, but I believe they were good starting points for me and ultimately helped me learn the material faster and more in-depth. Thank you also for the comments throughout the notebooks.
 
 ## Assignment 1: Review your classmate's Citibike project proposal
-You will recieve an email tonight with the name, nyuID, and GitHub username of a classmate.
 
-check that at least one of these class-mates is not already in your group for HW4 and contact me promptly if they both are! By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+Assignment 1 is titled CitibikeReview_mb6203.md
 
-look in the classmate HW4_<netid> repo ASAP and identify their submission for the citibike project. If you cannot find it contact them immediately!
+I have sent pull request to my colleague.
 
-Fork their repository and clone it (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory) - only read up to the experimantal setup and verify the data to answer the question is available. Do not consider the way they answer the question if they already did!
 
-Read it carefully (but do not modify the notebook)! You have to:
-
-a. verify that their Null and alternative hypotheses are formulated correctly
-
-b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
-
-c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
-
-Write your comments, suggestions, and suggested an appropriate statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md. Suggest variations on the question, if you think it may be made more interesting.
-
-Do not perform the test yet.
 
 Submit a pull request to the original repository to share your markdown.
 
 
 
 ## Assignment 2: Literature choices of statistical tests
-Work with one, or maximum two people.
+The last two tests were performed with assistance from **Alia Kasem**
+
+Work with one, or maximum two people (**I worked with Alia**).
 
 Choose three tests from the table in the slides
 
@@ -66,25 +65,15 @@ Immigrant BMI trends over time by geographic remoteness (2006–2014)
 
 
 ## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY:
-Reproduce the analysis of the Hard to Employ programs for NY. You may want to read the relevant portion of the study to make sure you are not just workign mechanically (Chapter 2 of the original document).
 
-Reproduce the results in cell 2 of Table 2.1 (Ever employed in a CEO transitional job), and cell 10 (Convicted of a felony). Fill in the cells of the scheleton notebook as you are asked to.
 
-Turn in your version of the python notebook in the HW6_<netID> directory
+My python notebook is titled HW6_assignment3.ipynb 
 
 
 
 ## Assignment 4: Tests of correlation using the scipy package with citibike data.
-Use the following are 3 tests to assess correlation between 2 samples of citibike data:
 
-Pearson’s test
-Spearman’s test
-K-S test
-There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment notebook citibikes_compare_distributions.ipynb.
-
-Use: trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis
-
-Use: age of bikers for trips originating in Manhattan and in Brooklyn. Use at least 2 months of citibike data. Extra Credit
+My python notebook is titled HW6_assignment4.ipynb 
 
 
 
