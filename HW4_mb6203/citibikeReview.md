@@ -1,4 +1,4 @@
-# Ideaun
+# Idea
 unclear: did you mean "Subscribers tend to choose biking for commuting _more likely than_ than customer."
 
 # Null hypothesis
