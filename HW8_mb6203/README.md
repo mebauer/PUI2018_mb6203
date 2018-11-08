@@ -15,4 +15,7 @@ Finish our Citibike miniproject
 
 Worked with Manrique Vargas.
 
+### We used Manrique's Notebook for this assignment ###
+All of the work was completed **together.** I mainly worked on the report.
+
 Link: https://www.authorea.com/336224/hdxgrHzCb0jsYB798dbcEA
