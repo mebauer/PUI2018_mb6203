@@ -1,7 +1,7 @@
 ## Assignments ##
 ### Assignment 1 ###
 
-![Alt text](../HW8_mb6203/new school projects in nyc by zip.png)
+![Alt text](../HW8_mb6203/new_school_projects_in_nyc_by_zip.png)
 
 
 
