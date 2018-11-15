@@ -2,20 +2,27 @@
 
 Also upload the review to their HW8_<netID> repository via Fork/Pull request. That means: you must make a fork of the classmate PUI2018_<netID> (their netID) repository (see instruction in the previous peer assignment homework), *git add* the review markdown to **your** fork of **their** PUI2018 repository, in HW8_<netID> (their netID), and *git commit* the review markdown. Then submit a pull request. 
 
-**Content**
+## Content ##
 
-Please be polite and constructive in your critique. You are trying to improve your classmate's work, and hopefully this will be an instructive experience for both you and your classmate. IMPORTANT: your grade for the plot peer review assignment will be based on the review, not on the plot you made. So be thoughtful and insightful!
+Hi **tp1600**, thank you for the insightful plot highlighting **Trends in Individuals in Homeless Shelters 2014-2018**. Here are my comments and suggestions about your plot.  
 
-Think about it as a peer review, which is something that is normally done on scientific papers in order to accept them or reject them for publication.  
-Here are a few basic evaluation criteria; comment and make suggestions on each:
+### CLARITY: ###  
 
-CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous? 
+First of all, great topic! Definitely an interesting and relevant plot. I would have liked to see a caption at the bottom conveying what the plot displays and what you concluded from the trends. The two bottom lines don't seem to be increasing. Is there a reason? Also, it's hard to tell the percent of change within these items, as the viewer has to eye-ball if the trend is declining or inclining. 
 
-ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
+### AESTHETIC: ###
 
-HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
+The plot is easy to read, however, is there a difference between the background colors (orange and blue)? Additionally, perhaps the line-weights might need to be enhanced so it's easier to read. There are also six items in the legend, but only four items are displayed in the plot. Maybe changing the colors a bit would assist the viewer.
 
-Important YOU MUST SUGGEST IMPROVEMENTS TO EACH PLOT!
+### HONESTY: ###
+
+Again, great topic, and I'm certainly interested to see more analysis! However, the big item for me is the missing caption. It's hard to tell exactly what's going on, and what the reasons for these trends might be.  
+
+Thank you for sharing! I'm happy to discuss more if you'd like.
+
+Best,
+
+Mark Bauer
 
 
 ![Alt text](../HW9_mb6203/pui_hw81_tp1600.png)
