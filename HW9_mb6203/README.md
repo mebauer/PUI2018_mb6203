@@ -9,7 +9,7 @@ For assignment two, I worked with numerous students mainly on Saturday afternoon
 - **Kate Cauley**
 - **Alia Kasem**
 
-For assignment three, I:also worked with:
+For assignment three, I also worked with:
 - **Manrique Vargas**
 - **Kate Cauley**
 - **Alia Kasem**
