@@ -25,10 +25,10 @@ Manrique and Kate really assisted with assignment 2, and Alia helped me with ass
 ### Refer to assignment 1
 
 ## Assignment 2: 
-### Exercises with linear regression using statsmodels
+### Exercises with linear regression using statsmodels.
 
 ## Assignment 3: 
-### Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
+### Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP.
 
 
 
