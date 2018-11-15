@@ -2,20 +2,23 @@
 
 Also upload the review to their HW8_<netID> repository via Fork/Pull request. That means: you must make a fork of the classmate PUI2018_<netID> (their netID) repository (see instruction in the previous peer assignment homework), *git add* the review markdown to **your** fork of **their** PUI2018 repository, in HW8_<netID> (their netID), and *git commit* the review markdown. Then submit a pull request. 
 
-**Content**
+## Content ##
 
-Please be polite and constructive in your critique. You are trying to improve your classmate's work, and hopefully this will be an instructive experience for both you and your classmate. IMPORTANT: your grade for the plot peer review assignment will be based on the review, not on the plot you made. So be thoughtful and insightful!
+Hi ys3226, thank you for the insightful plot highlighting **the % of shooting of black people vs. black people population**. Here are my comments and suggestions about your plot.  
 
-Think about it as a peer review, which is something that is normally done on scientific papers in order to accept them or reject them for publication.  
-Here are a few basic evaluation criteria; comment and make suggestions on each:
+### CLARITY ###:  
 
-CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous? 
+I somewhat understand what you're trying to convey, and I think that this is certainly an interesting topic, but to be honest, I'm not sure if the data really speaks through these plots. Yes, the red line chart seems to be above the % of population in almost every city, and it does convey your message (I think), I'm just not clear on what exactly the % of shooting of black people is. 
 
-ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
+### AESTHETIC: ###
 
-HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
+Colors are chosen appropriately, you did a nice job of conveying the line chart in red. I might have chosen differnt labels. For example, perhaps "African Americans" instead of "Black People" would have been a better choice. Black People can include other ethnicities as well. 
 
-Important YOU MUST SUGGEST IMPROVEMENTS TO EACH PLOT!
+### HONESTY: ###
+
+Great topic, and I'm certainly interested to see more analysis, but I wish you would have included more information about your data. These topics are somewhat broad, and I would have liked you to guide the viewer to your point in the caption.
+
+Thank you for sharing! I'm happy to discuss more if you'd like.
 
 
 
