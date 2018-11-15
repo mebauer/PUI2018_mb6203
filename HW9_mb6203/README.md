@@ -9,7 +9,12 @@ For assignment two, I worked with numerous students mainly on Saturday afternoon
 - **Kate Cauley**
 - **Alia Kasem**
 
-Manrique and Kate really assisted with assignment 2, and Alia helped me with assignment 3. 
+For assignment three, I:also worked with:
+- **Manrique Vargas**
+- **Kate Cauley**
+- **Alia Kasem**
+
+Manrique and Kate really assisted with assignment 2, and Alia helped me with assignment 3. However, we all collectively added comments and assisted in better workflows.
 
 
 
