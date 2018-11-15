@@ -8,7 +8,7 @@ Hi **tp1600**, thank you for the insightful plot highlighting **Trends in Indivi
 
 ### CLARITY: ###  
 
-First of all, great topic! Definitely an interesting and relevant plot. I would have liked to see a caption at the bottom conveying what the plot displays and what you concluded from the trends. The two bottom lines don't seem to be increasing. Is there a reason? Also, it's hard to tell the percent of change within these items, as the viewer has to eye-ball if the trend is declining or inclining. 
+First of all, great topic! Definitely an interesting and relevant plot. The two bottom lines don't seem to be increasing. Is there a reason? There's also a dip right after 2015. Any thoughts about this? Also, it's hard to tell the percent of change within these items, as the viewer has to eye-ball if the trend is declining or inclining, and how much it is changing. 
 
 ### AESTHETIC: ###
 
@@ -16,7 +16,7 @@ The plot is easy to read, however, is there a difference between the background 
 
 ### HONESTY: ###
 
-Again, great topic, and I'm certainly interested to see more analysis! However, the big item for me is the missing caption. It's hard to tell exactly what's going on, and what the reasons for these trends might be.  
+Again, great topic, and I'm certainly interested to see more analysis! **Fantastic caption as well.** However, the big item for me is the correlation between these trends. It's hard to tell exactly what's going on, and what the reasons for these trends might be.  
 
 Thank you for sharing! I'm happy to discuss more if you'd like.
 
