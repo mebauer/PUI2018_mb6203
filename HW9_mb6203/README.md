@@ -9,7 +9,12 @@ For assignment two, I worked with numerous students mainly on Saturday afternoon
 - **Kate Cauley**
 - **Alia Kasem**
 
-Manrique and Kate really assisted with assignment 2, and Alia helped me with assignment 3. 
+For assignment three, I also worked with:
+- **Manrique Vargas**
+- **Kate Cauley**
+- **Alia Kasem**
+
+Manrique and Kate really assisted with assignment 2, and Alia helped me with assignment 3. However, we all collectively added comments and assisted in better workflows.
 
 
 
@@ -20,10 +25,10 @@ Manrique and Kate really assisted with assignment 2, and Alia helped me with ass
 ### Refer to assignment 1
 
 ## Assignment 2: 
-### Exercises with linear regression using statsmodels
+### Exercises with linear regression using statsmodels.
 
 ## Assignment 3: 
-### Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
+### Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP.
 
 
 
