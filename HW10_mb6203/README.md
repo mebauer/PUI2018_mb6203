@@ -1,5 +1,7 @@
 # PUI2018 HW 10.
-## Team Collaboration: this is mainly for the second hw, which I worked in a pretty large group throughout the duration of the assignment. Team members were Kate Cauley, Alia Kasem, Manrique Vargas, Max Humphreys, and Shivam Pathak. Shivam really helped me with the plotting at the end and the chi squared.
+## Team Collaboration:
+
+This is mainly for the second hw, which I worked in a pretty large group throughout the duration of the assignment. Team members were Kate Cauley, Alia Kasem, Manrique Vargas, Max Humphreys, and Shivam Pathak. Shivam really helped me with the plotting at the end and the chi squared.
 
 ## ASSIGNMENTS:
 
