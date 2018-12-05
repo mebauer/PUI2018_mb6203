@@ -6,9 +6,11 @@ This is mainly for the second hw, which I worked in a pretty large group through
 ## ASSIGNMENTS:
 
 ### Assignment 1. 
+LR Test Lab
 
 
 ### Assignment 2.
+MapPLUTO Data and relationship between buildings and energy
 
 
 
