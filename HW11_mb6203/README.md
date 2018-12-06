@@ -7,4 +7,4 @@
 
 File is located in directory titled **HW11_Assignment2.md**
 
-My previous plot is located in the HW8 folder [here](https://github.com/mebauer/PUI2018_mb6203/blob/master/HW8_mb6203/new_school_projects_in_nyc_by_zip.png). 
+My previous plot is located in the HW8 folder [here](https://github.com/mebauer/PUI2018_mb6203/blob/master/HW8_mb6203/README.md). 
