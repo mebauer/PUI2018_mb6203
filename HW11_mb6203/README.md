@@ -1,6 +1,8 @@
 # HW11 ASSIGNMENTS:
 
 ## Assignment 1. Work from the skeleton notebook with inline instructions.
+For assignment 1, CUSP student Urwa Muaz assisted me with this skeleton notebook. I also collaborated with Manrique Vargas for our weekly Wednesday night study session.
+
 
 
 ## Assignment 2. Improve your plot from HW8 based on the feedback you recieved from your classmates. 
