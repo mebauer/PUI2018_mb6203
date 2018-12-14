@@ -1,5 +1,8 @@
 # HW 12:
 
+## Assignment Collaboration ##
+For this assignment, I collaborated with __Manrique Vargas__, __Timur Mukhtarov__, and __Alia Kasem__. I worked with Timur through various stages for assignment 1, and collaborated with Manrique and Alia for assignment 2. 
+
 **Assignment 1.** 
 
 Find periodicity with Fourier Transforms in the time series from [HW11](https://github.com/fedhere/PUI2018_fb55/tree/master/HW11_fb55). Comment on what you find: what are the most significant periods? Follow instructions in [notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW12_fb55/subway_timeseries_instructions_part2.ipynb)
