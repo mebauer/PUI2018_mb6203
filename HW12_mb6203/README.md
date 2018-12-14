@@ -1,7 +1,8 @@
 # HW 12:
 
 ## Assignment Collaboration ##
-For this assignment, I collaborated with __Manrique Vargas__, __Timur Mukhtarov__, and __Alia Kasem__. I worked with Timur through various stages for assignment 1, and collaborated with Manrique and Alia for assignment 2. 
+For this assignment, I collaborated with __Manrique Vargas__, __Timur Mukhtarov__, __Sarah Aita__ and __Alia Kasem__. I worked with Timur through various stages for assignment 1, and collaborated with Manrique and Alia for assignment 2. 
+  
 
 **Assignment 1.** 
 
